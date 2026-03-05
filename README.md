@@ -1,0 +1,1 @@
+Se realiza mejoras de errores de respuesta, se utilizan generics, manejamos los errores mas centralizados entregando un controller mas limpio sin logica, el cual tambien nos permite que a la hora de dar codigos de respuesta sean mas claros precisos y se de ayuda tanto para los desarrolladores como para el front que conecta al backend.
