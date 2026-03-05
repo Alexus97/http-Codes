@@ -1,0 +1,17 @@
+###
+
+GET http://localhost:8080/api/users
+
+
+###
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+    "user_name1": "jrt",
+    "password1": "jaromtiq",
+    "email": "jr9@gmail.com",
+    "active": true
+}
+
+

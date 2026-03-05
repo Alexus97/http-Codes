@@ -1,0 +1,14 @@
+###
+GET http://localhost:8080/api/status
+
+###
+GET http://localhost:8080/api/status/1
+
+
+###
+POST http://localhost:8080/api/status
+Content-Type: application/json
+
+{
+    "number": "2A"
+}
